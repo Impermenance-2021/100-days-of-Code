@@ -26,7 +26,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Project:** Introduction to Javascript ES6
 
-**Progress:**Introduction to Java Script
+**Progress:** Introduction to Java Script
 
 **Thoughts:** Curious to start understanding Javascript Case Studies
 
