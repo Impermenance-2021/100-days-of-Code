@@ -13,7 +13,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Goals
 
-- [x] Code daily
+- [x] Code daily - Learning Full Stack Web Devolepment
 - [x] Expand portfolio
 - [x] Hone my Git CLI skills
 - [x] Complete as many courses, classes, challenges, & certifications as possible
@@ -32,6 +32,56 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Work:**
 
----
+---------------------------------------
+
+### Day 2: December,09 2021 - Thursday
+
+**Project:**
+
+**Progress:**
+
+**Thoughts:**
+
+**Link to Work:**
+
+---------------------------------------
+
+### Day 3: December,10 2021 - Friday
+
+**Project:**
+
+**Progress:**
+
+**Thoughts:**
+
+**Link to Work:**
+
+---------------------------------------
+
+### Day 4: December,11 2021 - Saturday 
+
+**Project:**
+
+**Progress:**
+
+**Thoughts:**
+
+**Link to Work:**
+
+---------------------------------------
+
+### Day 5: December,12 2021 - Sunday
+
+**Project:**
+
+**Progress:**
+
+**Thoughts:**
+
+**Link to Work:**
+
+---------------------------------------
+
+
 
 
