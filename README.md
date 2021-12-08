@@ -24,11 +24,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ### Day 1: December,08 2021 - Wednesday
 
-**Project: Introduction to Javascript ES6**
+**Project:** Introduction to Javascript ES6
 
-**Progress:Introduction to Java Script**
+**Progress:**Introduction to Java Script
 
-**Thoughts: Curious to start understanding Javascript Case Studies**
+**Thoughts:** Curious to start understanding Javascript Case Studies
 
 **Link to Work:**
 
