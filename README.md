@@ -20,7 +20,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
   - This has been awesome! 
 
-# Code Log
+# Code Log template 
 
 ### Day 1: December,08 2021 - Wednesday
 
