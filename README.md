@@ -1,9 +1,39 @@
-# anushalee_website
-My portfolio website
+# 100 Days of code log ..
 
-The design was inspired by https://html5up.net/.
-You can download the code from this website for free, and customize it yourself.
-Just remember to give the author the credit.
-I write my own code from scratch. 
+Code minimum an hour every day for the next 100 days.
 
-This website is still in progress, so it's not a surprise that you will see weird layout or texts.
+## Challenge & Commitment
+This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
+
+**Commitment:** *I will code daily for the next 100 days.*
+
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| December 08, 2021 | September 10, 2022 |
+
+## Goals
+
+- [x] Code daily
+- [x] Expand portfolio
+- [x] Hone my Git CLI skills
+- [x] Complete as many courses, classes, challenges, & certifications as possible
+
+  - This has been awesome! 
+
+# Code Log
+< --
+## 1.
+### Day 1: December,08 2021 - Wednesday
+
+**Project:**
+
+**Progress:**
+
+**Thoughts:**
+
+**Link to Work:**
+-->
+
+---
+
+
