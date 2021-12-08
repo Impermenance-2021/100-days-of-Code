@@ -21,8 +21,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   - This has been awesome! 
 
 # Code Log
-< --
-## 1.
+
 ### Day 1: December,08 2021 - Wednesday
 
 **Project:**
@@ -32,7 +31,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:**
 
 **Link to Work:**
--->
 
 ---
 
